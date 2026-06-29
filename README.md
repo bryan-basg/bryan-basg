@@ -7,6 +7,8 @@ tratadas como *Software as a Medical Device* (SaMD), con trazabilidad, gestión 
 y un ciclo de vida disciplinado. Me interesa menos la novedad y más que el sistema siga
 siendo correcto, mantenible y seguro dentro de seis meses.
 
+![Disponible](https://img.shields.io/badge/disponible-para%20oportunidades-success)
+
 ---
 
 ### En qué trabajo
