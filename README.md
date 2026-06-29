@@ -9,6 +9,8 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 
 ![Disponible](https://img.shields.io/badge/disponible-para%20oportunidades-success)
 
+[![Palmira, Colombia](https://img.shields.io/badge/Palmira-Colombia-FCD116?labelColor=003893)](https://github.com/bryan-basg)
+
 ---
 
 ### En qué trabajo
