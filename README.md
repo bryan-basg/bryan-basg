@@ -1,6 +1,6 @@
 # Bryan Andrés Solarte Gómez
 
-**Arquitecto de Software** · Sistemas regulados, calidad y orquestación de agentes de IA
+**Fundador técnico de SOMA (Nevalis)** · Arquitecto de software · Sistemas regulados, calidad y orquestación de agentes de IA
 
 Diseño y construyo software donde la corrección no es negociable: aplicaciones de salud
 tratadas como *Software as a Medical Device* (SaMD), con trazabilidad, gestión de riesgo
@@ -11,13 +11,16 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 
 ### En qué trabajo
 
-- **Soma — Calendario Neurodivergente** · App de salud (SaMD) para personas neurodivergentes.
-  Arquitectura full-stack con cumplimiento IEC 62304 / ISO 14971, accesibilidad WCAG 2.1 AA
-  y un *Design History File* vivo. *(en desarrollo)*
+- **[SOMA](https://nevialis-landing.web.app) — Nevalis** · Plataforma de salud digital (web y Android, 12 idiomas)
+  para personas neurodivergentes y sus profesionales. La persona registra su día; el profesional,
+  solo con su consentimiento, ve cómo fue la semana entre sesiones. El profesional interpreta;
+  el software no diagnostica. Construida siguiendo IEC 62304 e ISO 14971, con un *Design History File* vivo
+  (sin auditoría de organismo notificado). Código privado.
+  [Conoce SOMA para profesionales →](https://nevialis-landing.web.app/profesionales.html)
 
-- **[samd-starter-kit](https://github.com/bryan-basg/samd-starter-kit)** · Kit para construir
-  Software as a Medical Device con un equipo de agentes de IA. Andamiaje regulatorio
-  (IEC 62304 + ISO 14971), 10 agentes especializados y flujos multi-agente. *(público, MIT)*
+- **[samd-starter-kit](https://github.com/bryan-basg/samd-starter-kit)** · Kit de código abierto (MIT) para construir
+  Software as a Medical Device con un equipo de 12 agentes de IA: andamiaje regulatorio
+  (IEC 62304 + ISO 14971), flujos multi-agente y un Design History File completo. Es el andamiaje que uso en SOMA.
 
 ---
 
@@ -26,7 +29,7 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 - **Calidad antes que velocidad** — cobertura alta, pruebas de mutación, CI con puertas reales.
 - **Trazabilidad** — del requisito al riesgo, al código, a la prueba.
 - **Sistemas regulados** — IEC 62304, ISO 14971, WCAG 2.1 AA como restricciones de diseño, no como trámite.
-- **Orquestación de agentes** — delego ejecución a agentes de IA y reviso cada diff.
+- **Orquestación de agentes** — delego ejecución a agentes de IA; la arquitectura, las decisiones y la revisión de cada diff son mías.
 
 ---
 
@@ -47,4 +50,4 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 - 📍 Palmira, Colombia
 - 💼 [LinkedIn](https://www.linkedin.com/in/bryan-solarte-dev)
 
-*Abierto a oportunidades en arquitectura de software y sistemas regulados.*
+*Busco profesionales de salud mental interesados en un piloto de SOMA: escríbeme por LinkedIn.*
