@@ -30,8 +30,8 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 
 ### Cómo construyo
 
-- **Calidad antes que velocidad** — 96% de cobertura en backend (98% en la capa de datos) sobre más de
-  3.900 pruebas, más pruebas de mutación: la cobertura sola no demuestra que las pruebas detecten defectos.
+- **Calidad antes que velocidad** — 95% de cobertura en backend (97% en la capa de datos) sobre más de
+  25.000 casos de prueba, más pruebas de mutación: la cobertura sola no demuestra que las pruebas detecten defectos.
   Más de 20 workflows de CI/CD en GitHub Actions (E2E, contrato OpenAPI, fuzzing, DAST, SBOM, mutación nocturna).
 - **Trazabilidad** — del requisito al riesgo, al código, a la prueba.
 - **Sistemas regulados** — IEC 62304, ISO 14971, WCAG 2.1 AA como restricciones de diseño, no como trámite.
