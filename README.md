@@ -1,11 +1,13 @@
 # Bryan Andrés Solarte Gómez
 
-**Fundador técnico de SOMA (Nevalis)** · Full-stack · Software de salud regulado (SaMD) y orquestación de agentes de IA
+**Desarrollador Full Stack · Fundador técnico de SOMA (Nevalis)** · Software de salud regulado (SaMD) y orquestación de agentes de IA
 
 Diseño y construyo software donde la corrección no es negociable: aplicaciones de salud
 tratadas como *Software as a Medical Device* (SaMD), con trazabilidad, gestión de riesgo
 y un ciclo de vida disciplinado. Me interesa menos la novedad y más que el sistema siga
 siendo correcto, mantenible y seguro dentro de seis meses.
+
+📍 Palmira, Colombia · Disponible para trabajo remoto (UTC-5)
 
 ---
 
@@ -18,13 +20,13 @@ siendo correcto, mantenible y seguro dentro de seis meses.
   (sin auditoría de organismo notificado). Lo construyo en solitario y a dedicación completa desde
   diciembre de 2025: backend, frontend, app Android, infraestructura y documentación regulatoria. Código privado.
   [Conoce SOMA para profesionales →](https://nevialis-landing.web.app/profesionales.html)
+  - API REST de más de 260 operaciones (FastAPI, SQLAlchemy 2.0 asíncrono, PostgreSQL) con más de 90 migraciones versionadas, en Cloud Run.
+  - Offline-first: el registro ocurre en crisis y sin conexión; bandeja de salida local con reintento idempotente.
+  - IA en modo propuesta: el asistente nunca ejecuta acciones sobre datos de salud sin confirmación explícita.
 
 - **[samd-starter-kit](https://github.com/bryan-basg/samd-starter-kit)** · Kit de código abierto (MIT) para construir
   Software as a Medical Device con un equipo de 12 agentes de IA: andamiaje regulatorio
   (IEC 62304 + ISO 14971), flujos multi-agente y un Design History File completo. Es el andamiaje que uso en SOMA.
-
-- **[studyou-releases](https://github.com/bryan-basg/studyou-releases)** · Instaladores públicos de studyou
-  (Linux, Windows y Android). El código es privado.
 
 ---
 
@@ -45,15 +47,18 @@ siendo correcto, mantenible y seguro dentro de seis meses.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
 ### Contacto
 
-- 📍 Palmira, Colombia
 - 💼 [LinkedIn](https://www.linkedin.com/in/bryan-solarte-dev)
+- 📧 bryan.basg.1996@gmail.com
 
 *Busco profesionales de salud mental interesados en un piloto de SOMA: escríbeme por LinkedIn.*
