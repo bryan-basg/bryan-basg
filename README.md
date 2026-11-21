@@ -28,6 +28,13 @@ siendo correcto, mantenible y seguro dentro de seis meses.
   Software as a Medical Device con un equipo de 12 agentes de IA: andamiaje regulatorio
   (IEC 62304 + ISO 14971), flujos multi-agente y un Design History File completo. Es el andamiaje que uso en SOMA.
 
+
+<p align="center">
+  <img src="assets/soma-persona.webp" width="49%" alt="SOMA para la persona: calendario del mes, tareas pendientes, eventos y el acceso a Soma, el asistente">
+  <img src="assets/soma-profesional.webp" width="49%" alt="SOMA para el Profesional: cartera de pacientes, resumen de riesgo y acciones rápidas">
+</p>
+<p align="center"><sub>SOMA en la web. Izquierda: el día de la persona (calendario, tareas y Soma). Derecha: el panel del Profesional. Datos de demostración.</sub></p>
+
 ---
 
 ### Cómo construyo
