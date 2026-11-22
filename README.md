@@ -1,6 +1,6 @@
 # Bryan Andrés Solarte Gómez
 
-**Desarrollador Full Stack · Fundador técnico de SOMA (Nevalis)** · Software de salud regulado (SaMD) y orquestación de agentes de IA
+**Fundador de Nevalis · Creador de SOMA** · Software de salud regulado (SaMD) y orquestación de agentes de IA
 
 Diseño y construyo software donde la corrección no es negociable: aplicaciones de salud
 tratadas como *Software as a Medical Device* (SaMD), con trazabilidad, gestión de riesgo
@@ -18,7 +18,8 @@ siendo correcto, mantenible y seguro dentro de seis meses.
   solo con su consentimiento, ve cómo fue la semana entre sesiones. El profesional interpreta;
   el software no diagnostica. Construida siguiendo IEC 62304 e ISO 14971, con un *Design History File* vivo
   (sin auditoría de organismo notificado). Lo construyo en solitario y a dedicación completa desde
-  diciembre de 2025: backend, frontend, app Android, infraestructura y documentación regulatoria. Código privado.
+  diciembre de 2025, dirigiendo un equipo de agentes de IA: yo decido la arquitectura y reviso cada cambio;
+  ellos escriben gran parte del código. Abarca backend, frontend, app Android, infraestructura y documentación regulatoria. Código privado.
   [Conoce SOMA para profesionales →](https://nevialis-landing.web.app/profesionales.html)
   - API REST de más de 260 operaciones (FastAPI, SQLAlchemy 2.0 asíncrono, PostgreSQL) con más de 90 migraciones versionadas, en Cloud Run.
   - Offline-first: el registro ocurre en crisis y sin conexión; bandeja de salida local con reintento idempotente.
